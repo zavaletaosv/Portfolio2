@@ -13,20 +13,33 @@
     <body>
         <nav class="navbar navbar-expand-lg navbar-light bg-dark">
             <div class="navbar container-fluid">
-                <button type="button" class="btn btn-dark"> About Me </button>
-                <button type="button" class="btn btn-dark"> Contact Me </button>
-                <button type="button" class="btn btn-dark"> Projects </button>
-                <button type="button" class="btn btn-dark"> Resume </button>
+                <a href="#aboutMe" class="btn btn-dark active" role="button" aria-pressed="true"> About Me </a>
+                <a href="#projects" class="btn btn-dark active" role="button" aria-pressed="true"> Projects </a> 
+                <a href="#resume" class="btn btn-dark active" role="button" aria-pressed="true"> Resume </a>
             </div>
         </nav>
 
+        <br>
+
             <h1 class="name text-center"> Osvaldo Zavaleta </h1>
+            <br>
             <section class="profile-photo">
                 <img src="./images/profile.JPG" 
                 class="rounded mx-auto d-block" 
                 alt="Profile Photo"
                 width="250px"
                 height="250px" />
+            </section>
+
+            <br>
+            <section class="container">
+                <div class="small">
+                    <a name="aboutMe"></a>
+                    <h2> About Me </h2>
+                </div>
+                <div class="textBox">
+                    <p> Hello! I am Osvaldo Zavaleta, an aspiring software developer from Houston, Texas. I am currently enrolled in the Rice University Coding Bootcamp. I am consistently trying to improve my skills in order to become a valuable asset to any team. </p>
+                </div>
             </section>
     </body>
 </html>
