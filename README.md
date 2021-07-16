@@ -2,7 +2,7 @@
 
 ## Description
 
-
+The purpose of this project was to update our portfolio to showcase any and all projects we have created while displaying skills acquired.
 
 ## Links
 
