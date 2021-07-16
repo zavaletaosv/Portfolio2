@@ -6,9 +6,9 @@
 
 ## Links
 
-Depository Link: 
+Depository Link: https://github.com/zavaletaosv/Portfolio2
 
-Deployed Website Link: 
+Deployed Website Link: https://zavaletaosv.github.io/Portfolio2/ 
 ## Usage
 
 Once deployed, the application appears as the image attached below on a traditional desktop.
