@@ -31,6 +31,13 @@ alt="A screenshot of the webpage" />
 
 ## Resources
 
+https://www.w3schools.com/cssref/css_colors.asp
+
+https://www.w3schools.com/cssref/sel_hover.asp
+
+https://getbootstrap.com/docs/5.0/getting-started/introduction/
+
+
 ## Credits
 
 Collaborations of this project include the instructional staff, TAs, and fellow classmates in the Rice University Coding Bootcamp 2021 Cohort.
