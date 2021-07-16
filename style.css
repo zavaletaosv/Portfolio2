@@ -42,7 +42,7 @@ a:hover {
     text-align: center;
     border-style: solid;
     border-width: 1px;
-    max-width: 500px;  
+    max-width: 800px;  
     margin: auto;
 }
 
@@ -50,7 +50,7 @@ a:hover {
     padding: 20px;
     background-color: slategray;
     color: white;
-    max-width: 700px;
+    max-width: 900px;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
 }
@@ -58,7 +58,7 @@ a:hover {
 .projects img {
     width: 100%;
     min-width: 300px;
-    max-width: 800px;
+    max-width: 900px;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
 }
