@@ -13,7 +13,9 @@ Deployed Website Link: https://zavaletaosv.github.io/Portfolio2/
 
 Once deployed, the application appears as the image attached below on a traditional desktop.
 
-
+<img
+src="./images/ss1.png"
+alt="A screenshot of the webpage" />
 
 
 ## Resources
