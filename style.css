@@ -46,3 +46,16 @@ a:hover {
     margin: auto;
 }
 
+.projects header {
+    padding: 20px;
+    background-color: slategray;
+    color: white;
+    max-width: 700px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+
+
+
+
