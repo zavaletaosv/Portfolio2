@@ -13,3 +13,9 @@ body {
     background-color: black;
 }
 
+h1 {
+    display: block;
+    font-family: 'Merriweather', serif;
+    color: white;
+}
+
