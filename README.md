@@ -37,6 +37,9 @@ https://www.w3schools.com/cssref/sel_hover.asp
 
 https://getbootstrap.com/docs/5.0/getting-started/introduction/
 
+https://fonts.google.com/specimen/Merriweather#standard-styles
+
+https://stackoverflow.com/questions/4012872/how-to-center-a-footer-div-on-a-webpage/4012888
 
 ## Credits
 
