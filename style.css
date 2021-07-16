@@ -19,3 +19,9 @@ h1 {
     color: white;
 }
 
+h2, h3, h4, h5, p, a, header {
+    font-family: 'STIX Two Math', serif;
+    color: white;
+    text-align: center;
+}
+
