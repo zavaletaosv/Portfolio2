@@ -6,7 +6,7 @@ The purpose of this project was to update our portfolio to showcase any and all 
 
 ## Links
 
-Depository Link: https://github.com/zavaletaosv/Portfolio2
+Repository Link: https://github.com/zavaletaosv/Portfolio2
 
 Deployed Website Link: https://zavaletaosv.github.io/Portfolio2/ 
 ## Usage
